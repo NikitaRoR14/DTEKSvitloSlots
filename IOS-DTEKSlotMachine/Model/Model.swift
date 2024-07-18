@@ -11,5 +11,14 @@ import UIKit
 
 struct Model{
     let images = [#imageLiteral(resourceName: "PossibleLight") , #imageLiteral(resourceName: "LightOn"), #imageLiteral(resourceName: "NoLight")]
+    
+    func countLight(_ row:Int) ->Int {
+        let image = images[row]
+        switch image.description{
+            
+        default:
+            //
+        }
+    }
 }
 
