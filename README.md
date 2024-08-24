@@ -1,5 +1,6 @@
 # DTEKSvitloSlots
-Simple slot-like game, with design of Ukrainian electricity company 
+Simple slot-like game, with design of Ukrainian electricity company
+
 ! I am against casino-like games,this game is just for fun and does not require any money !
 
 # Why this project was created?
