@@ -1,5 +1,6 @@
 # DTEKSvitloSlots
 ! I am against casino-like games,this game is just for fun and does not require any money !
+
 Simple slot-like game, with design of Ukrainian electricity company
 
 
